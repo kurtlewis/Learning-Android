@@ -4,4 +4,5 @@
     <string name="edit_message">Enter a message</string>
     <string name="fragment_history_header">Previous History:</string>
     <string name="history_placeholder">This is where history will appear.</string>
+    <string name="saved_history_1">SAVED_HISTORY_1</string>
 </resources>
